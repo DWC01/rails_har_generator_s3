@@ -16,6 +16,7 @@
 /public/har_files
 /tmp
 
+config/initializers
 
 config.json
 node_modules
