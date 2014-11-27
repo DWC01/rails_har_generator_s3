@@ -16,7 +16,6 @@
 /public/har_files
 /tmp
 
-/config/initializers/aws.rb
 
 config.json
 node_modules
