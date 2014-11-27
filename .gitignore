@@ -13,4 +13,9 @@
 
 # Ignore all logfiles and tempfiles.
 /log/*.log
+/public/har_files
 /tmp
+
+config.json
+node_modules
+npm-debug.log
